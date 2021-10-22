@@ -23,6 +23,4 @@ const users = [
   
   /*
    * Должно работать так
-   */
-  toggleUserState(users, 'Mango').then(logger);
-  toggleUserState(users, 'Lux').then(logger);
+//    */vc
